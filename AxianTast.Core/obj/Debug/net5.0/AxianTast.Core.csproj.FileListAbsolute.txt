@@ -1,0 +1,15 @@
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\bin\Debug\net5.0\AxianTast.Core.deps.json
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\bin\Debug\net5.0\AxianTast.Core.runtimeconfig.json
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\bin\Debug\net5.0\AxianTast.Core.runtimeconfig.dev.json
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\bin\Debug\net5.0\AxianTast.Core.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\bin\Debug\net5.0\ref\AxianTast.Core.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\bin\Debug\net5.0\AxianTast.Core.pdb
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.csproj.AssemblyReference.cache
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.AssemblyInfoInputs.cache
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.AssemblyInfo.cs
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\ref\AxianTast.Core.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.pdb
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTast.Core\obj\Debug\net5.0\AxianTast.Core.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\bin\Debug\net5.0\AxianTest.Infrastructure.deps.json
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\bin\Debug\net5.0\AxianTest.Infrastructure.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\bin\Debug\net5.0\ref\AxianTest.Infrastructure.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\bin\Debug\net5.0\AxianTest.Infrastructure.pdb
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\ref\AxianTest.Infrastructure.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.pdb
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\bin\Debug\net5.0\AxianTast.Core.dll
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\bin\Debug\net5.0\AxianTast.Core.pdb
+C:\Users\Hussain Khan\source\repos\AxianTest\AxianTest.Infrastructure\obj\Debug\net5.0\AxianTest.Infrastructure.csproj.CopyComplete
